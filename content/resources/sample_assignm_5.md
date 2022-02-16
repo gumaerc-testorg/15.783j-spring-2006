@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This file contains information regarding assignment 5. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-783j-product-design-and-development-spring-2006/214826bc43830ca6fe2c1ea11833c17f_sample_assignm_5.pdf
+file: /media/courses/15-783j-product-design-and-development-spring-2006/214826bc43830ca6fe2c1ea11833c17f_sample_assignm_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Slide 1
 uid: 214826bc-4383-0ca6-fe2c-1ea11833c17f
