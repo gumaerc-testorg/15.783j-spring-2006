@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 50d6a9d6-518e-3aab-c086-35f57555af5b
 resourcetype: Document
 title: Microsoft PowerPoint - Conjoint Analysis fin
 uid: 076b5ba3-61cb-e3e3-af30-1021e4123517

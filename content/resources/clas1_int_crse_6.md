@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 50d6a9d6-518e-3aab-c086-35f57555af5b
 resourcetype: Document
 title: Microsoft PowerPoint - Intro to Course 06.ppt
 uid: 61b6b802-8f2b-6a76-695e-118d843089b8

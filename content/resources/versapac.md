@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3be48952-182e-8498-811b-9f3f6a69e7c6
 resourcetype: Document
 title: versapac.pdf
 uid: 9628347f-8bf1-a700-17ef-13508a483f9b

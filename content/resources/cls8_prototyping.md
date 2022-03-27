@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 50d6a9d6-518e-3aab-c086-35f57555af5b
 resourcetype: Document
 title: SLA & SLS Technologies Pros & Cons
 uid: a61c27d6-7397-b7e7-3132-7d176f303068

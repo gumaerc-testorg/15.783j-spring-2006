@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 50d6a9d6-518e-3aab-c086-35f57555af5b
 resourcetype: Document
 title: PowerPoint Presentation
 uid: 256d46f8-91aa-da36-8fdc-5d2b12337420

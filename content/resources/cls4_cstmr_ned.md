@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 50d6a9d6-518e-3aab-c086-35f57555af5b
 resourcetype: Document
 title: Microsoft PowerPoint - Class2 Customer Needs.ppt
 uid: e2e05a01-0498-15a8-75b5-d8b87f4cbc34

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 50d6a9d6-518e-3aab-c086-35f57555af5b
 resourcetype: Document
 title: Microsoft PowerPoint - Class6 Concept Generation.ppt
 uid: aa38be34-6366-7d08-8c7a-51c73712382e
