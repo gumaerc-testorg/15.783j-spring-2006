@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the course topics and their reading
+  parts.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -330,7 +332,7 @@ In this class session, Teams 1 to 5 will have time to review their progress with
 {{< tdopen >}}
 _Final Meeting Project Presentations_  
   
-Final project presentations will be held approximately from 9:00 am to 4:00 pm. The location will be announced in class. For more details, refer to the [projects]({{< baseurl >}}/pages/projects) section.
+Final project presentations will be held approximately from 9:00 am to 4:00 pm. The location will be announced in class. For more details, refer to the {{% resource_link 3be48952-182e-8498-811b-9f3f6a69e7c6 "projects" %}} section.
 {{< tdclose >}}
 {{< tdopen >}}
 

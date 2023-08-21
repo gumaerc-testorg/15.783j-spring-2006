@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the course topics along with
+  the linked files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-_Introduction_ ([PDF - 2.4MB]({{< baseurl >}}/resources/clas1_int_crse_6))  
+_Introduction_ ({{% resource_link 61b6b802-8f2b-6a76-695e-118d843089b8 "PDF - 2.4MB" %}})  
   
 We will mainly discuss course logistics and project descriptions.
 {{< tdclose >}}
@@ -58,7 +60,7 @@ Each student will give a 50 second presentation (Assignment 1b)
 4
 {{< tdclose >}}
 {{< tdopen >}}
-_Identifying Customer Needs: "Sweetwater"_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2MB]({{< baseurl >}}/resources/cls4_cstmr_ned))  
+_Identifying Customer Needs: "Sweetwater"_ ({{% resource_link e2e05a01-0498-15a8-75b5-d8b87f4cbc34 "PDF - 2.2MB" %}})  
   
 Be prepared for a detailed discussion of the case. What do you consider to be the most important needs associated with water purification devices such as the Sweetwater Guardian? Get information from experienced users and find out what they think. How did you get the information?
 {{< tdclose >}}
@@ -69,7 +71,7 @@ Be prepared for a detailed discussion of the case. What do you consider to be th
 5
 {{< tdclose >}}
 {{< tdopen >}}
-_Customer Preferences: Conjoint Analysis_ ([PDF - 1.1MB]({{< baseurl >}}/resources/cls5_cjnt_anls))
+_Customer Preferences: Conjoint Analysis_ ({{% resource_link 076b5ba3-61cb-e3e3-af30-1021e4123517 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +80,7 @@ _Customer Preferences: Conjoint Analysis_ ([PDF - 1.1MB]({{< baseurl >}}/resourc
 6
 {{< tdclose >}}
 {{< tdopen >}}
-_Industrial Design_ ([PDF - 1.1MB]({{< baseurl >}}/resources/cls6_id_lct2006_t))
+_Industrial Design_ ({{% resource_link 256d46f8-91aa-da36-8fdc-5d2b12337420 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +89,7 @@ _Industrial Design_ ([PDF - 1.1MB]({{< baseurl >}}/resources/cls6_id_lct2006_t))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-_Product Specifications and Concept Generation_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/clas7_cncpt_genr))
+_Product Specifications and Concept Generation_ ({{% resource_link aa38be34-6366-7d08-8c7a-51c73712382e "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +98,7 @@ _Product Specifications and Concept Generation_ (![This resource may not render 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-_Prototyping_ ([PDF - 1.5MB]({{< baseurl >}}/resources/cls8_prototyping)) (Courtesy of Allison Rae. Used with permission.)
+_Prototyping_ ({{% resource_link a61c27d6-7397-b7e7-3132-7d176f303068 "PDF - 1.5MB" %}}) (Courtesy of Allison Rae. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ _Prototyping_ ([PDF - 1.5MB]({{< baseurl >}}/resources/cls8_prototyping)) (Court
 9
 {{< tdclose >}}
 {{< tdopen >}}
-_Concept Selection_ ([PDF]({{< baseurl >}}/resources/cls9_cncpt_sel_6))
+_Concept Selection_ ({{% resource_link 4a44d148-fc00-f946-8621-77da626cb069 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +189,7 @@ _Product Architecture_
 17
 {{< tdclose >}}
 {{< tdopen >}}
-_Forecasting Demand for New Products_ ([PDF]({{< baseurl >}}/resources/cls17_dmd_forcst))
+_Forecasting Demand for New Products_ ({{% resource_link 9d0327f1-cb89-611a-5c2b-afba2718aed3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +216,7 @@ _Design for Manufacturing_
 20
 {{< tdclose >}}
 {{< tdopen >}}
-_Trends and Tools in Product Development_ ([PDF - 1.5MB]({{< baseurl >}}/resources/cls20_tol_trds))
+_Trends and Tools in Product Development_ ({{% resource_link 59812584-fb60-cf6b-667e-ce8341a5db7c "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +249,7 @@ In this class session, Teams 1 to 5 will have time to review their progress with
 {{< tdopen >}}
 _Final Meeting Project Presentations_  
   
-Final project presentations will be held approximately from 9:00 am to 4:00 pm. The location will be announced in class. For more details, refer to the [projects]({{< baseurl >}}/pages/projects) section.
+Final project presentations will be held approximately from 9:00 am to 4:00 pm. The location will be announced in class. For more details, refer to the {{% resource_link 3be48952-182e-8498-811b-9f3f6a69e7c6 "projects" %}} section.
 {{< tdclose >}}
 
 {{< trclose >}}
