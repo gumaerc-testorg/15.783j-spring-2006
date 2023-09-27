@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the complete set of problem statements
+  along with their solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: ccab23d8-a646-be48-b469-0b90ac2ff342
 ---
 
-This page contains both a set of sample assignments from the class as well as the assignment guidelines. These assignments culminate in a final project, examples of which can be seen in the [projects]({{< baseurl >}}/pages/projects) section.
+This page contains both a set of sample assignments from the class as well as the assignment guidelines. These assignments culminate in a final project, examples of which can be seen in the {{% resource_link 3be48952-182e-8498-811b-9f3f6a69e7c6 "projects" %}} section.
 
 Sample Assignments
 ------------------
@@ -16,32 +18,32 @@ Sample Assignments
 
 All sample assignments are courtesy of the students named and used with permission.
 
-Sample Assignment 1 - Design Project Proposal I ([PDF]({{< baseurl >}}/resources/smp_dgn_prj_pro1))
+Sample Assignment 1 - Design Project Proposal I ({{% resource_link e0c535a0-8d08-8340-a02e-c3159da13315 "PDF" %}})
 
-Sample Assignment 1 - Design Project Proposal II ([PDF]({{< baseurl >}}/resources/smp_dgn_prj_pro2))
+Sample Assignment 1 - Design Project Proposal II ({{% resource_link 0772a6d1-ea20-c79d-49de-a4b1f5d0490d "PDF" %}})
 
-Sample Assignment 1 - Design Project Proposal III ([PDF]({{< baseurl >}}/resources/smp_dgn_prj_pro3))
+Sample Assignment 1 - Design Project Proposal III ({{% resource_link 74185a6e-ec10-945b-de2c-28f438884bcb "PDF" %}})
 
-Sample Assignment 1 - Design Project Proposal IV ([PDF]({{< baseurl >}}/resources/smp_dgn_prjpro4))
+Sample Assignment 1 - Design Project Proposal IV ({{% resource_link d80fd6c2-930a-de50-ad26-1135d19d20d5 "PDF" %}})
 
-Sample Assignment 2 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ([PDF]({{< baseurl >}}/resources/sample_assignm_2))
+Sample Assignment 2 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ({{% resource_link 391a9a6f-d570-ccf5-95ef-3b108cb37e36 "PDF" %}})
 
-Sample Assignment 3 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ([PDF - 1.2MB]({{< baseurl >}}/resources/sample_assignm_3))
+Sample Assignment 3 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ({{% resource_link 2c51b7a1-b2b6-2e52-f769-ddbfcedc0e48 "PDF - 1.2MB" %}})
 
-Sample Assignment 4 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ([PDF]({{< baseurl >}}/resources/sample_assignm_4))
+Sample Assignment 4 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ({{% resource_link 796ca550-dbab-c991-2d35-863115db6623 "PDF" %}})
 
-Sample Assignment 5 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ([PDF]({{< baseurl >}}/resources/sample_assignm_5))
+Sample Assignment 5 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ({{% resource_link 214826bc-4383-0ca6-fe2c-1ea11833c17f "PDF" %}})
 
-Sample Assignment 6 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ([PDF - 3.3MB]({{< baseurl >}}/resources/sample_assignm_6))
+Sample Assignment 6 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ({{% resource_link 1148a1b0-0e14-269e-047c-be1156cdce9f "PDF - 3.3MB" %}})
 
-Sample Assignment 7 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ([PDF]({{< baseurl >}}/resources/sample_assignm_7))
+Sample Assignment 7 - Lane Ballard, Tom Burns, John Celmins, Paul Glomski, Amber Mazooji, Minja Penttila, Chris Piscitelli, Tomer Posner ({{% resource_link 73617d4d-7ce7-0b8c-42f6-97a7bd44067a "PDF" %}})
 
 Assignment Guidelines
 ---------------------
 
 ### Assignment 1: Project Proposal
 
-Assignment 1 is the only **individual assignment** for this class. Only students that complete this assignment will be allowed to stay enrolled in this class. Please refer also to the **Guidelines for Projects** in the [projects]({{< baseurl >}}/pages/projects) section, to assist you with both, identifying appropriate project proposals and selecting among the proposed projects. Exercises 2 and 3 in chapter 4 of the textbook can also serve as a starting point for project proposals.
+Assignment 1 is the only **individual assignment** for this class. Only students that complete this assignment will be allowed to stay enrolled in this class. Please refer also to the **Guidelines for Projects** in the {{% resource_link 3be48952-182e-8498-811b-9f3f6a69e7c6 "projects" %}} section, to assist you with both, identifying appropriate project proposals and selecting among the proposed projects. Exercises 2 and 3 in chapter 4 of the textbook can also serve as a starting point for project proposals.
 
 ### Assignment 1a: Proposal Handout
 

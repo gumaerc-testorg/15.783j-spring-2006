@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the course project, project teams,
+  project materials and expenses and guidelines for projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -7,21 +9,21 @@ title: Projects
 uid: 3be48952-182e-8498-811b-9f3f6a69e7c6
 ---
 
-This page contains examples of the final projects from the 2006 class. The final projects are the product of a series of [assignments]({{< baseurl >}}/pages/assignments).
+This page contains examples of the final projects from the 2006 class. The final projects are the product of a series of {{% resource_link ccab23d8-a646-be48-b469-0b90ac2ff342 "assignments" %}}.
 
 Projects from 2006
 ------------------
 
 All work is courtesy of the students named and used with permission.
 
-Cadillac CTS Door Closer - Eric Bevan, Dean Ljubicic, Pedzi Makumbe, John Park, Curtis Underwood, Jamie Waldinger, Moya Yen (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/cadillac))
+Cadillac CTS Door Closer - Eric Bevan, Dean Ljubicic, Pedzi Makumbe, John Park, Curtis Underwood, Jamie Waldinger, Moya Yen ({{% resource_link 48df4c0c-6b86-eab6-7a0e-d3c230df7e03 "PDF" %}})
 
-ContaInner - Eun-Joung Lee, Christopher Leitz, Billy Lo, Caroline Park, Becky Roberts, Matthew Ward ([PDF]({{< baseurl >}}/resources/containner))
+ContaInner - Eun-Joung Lee, Christopher Leitz, Billy Lo, Caroline Park, Becky Roberts, Matthew Ward ({{% resource_link eb210c09-22f0-d3f5-eab6-bbbf081b56a1 "PDF" %}})
 
 Project Guidelines
 ------------------
 
-Central to this class is a team-based approach to conceive and design a new product and present a prototype in the final class session. The goal of this exercise is to learn principles and methods of product development, to improve teamwork skills and to appreciate the inherent multidisciplinary nature of product development. Project ideas come from the students in the class. Guidelines for reasonable projects are given below. The project proposal process is explained in the [assignments]({{< baseurl >}}/pages/assignments) section.
+Central to this class is a team-based approach to conceive and design a new product and present a prototype in the final class session. The goal of this exercise is to learn principles and methods of product development, to improve teamwork skills and to appreciate the inherent multidisciplinary nature of product development. Project ideas come from the students in the class. Guidelines for reasonable projects are given below. The project proposal process is explained in the {{% resource_link ccab23d8-a646-be48-b469-0b90ac2ff342 "assignments" %}} section.
 
 ### Project Teams
 
@@ -53,4 +55,4 @@ While special cases will be considered, you are strongly encouraged to choose a 
 *   It is really nice to have a connection to a commercial venture that may be interested in the product. (One group signed a licensing agreement with a major mail order and retail company with which they had made contact during the first week of the course. The product they developed became a commercial success.)
 *   Most products are really not very well designed. This is evidenced by the seemingly poor quality of common consumer products (utility knives, garlic presses, and ice cream scoops, for example). The experience in this class is that if you pick almost any product satisfying the above project guidelines, you will be able to develop a product that is superior to everything currently on the market. A book titled _The Design of Everyday Things_ by Donald A. Norman (Doubleday, 1990) discusses good and bad examples and provides principles and guidelines for good design.
 *   Just because you have used a lousy product doesn't mean that a better one doesn't exist. Dosome thorough research to identify competitive products and solutions.
-*   An overview of some previous class projects is available in the [assignments]({{< baseurl >}}/pages/assignments) section.
+*   An overview of some previous class projects is available in the {{% resource_link ccab23d8-a646-be48-b469-0b90ac2ff342 "assignments" %}} section.
