@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding assignment 2. '
 file: /courses/15-783j-product-design-and-development-spring-2006/391a9a6fd570ccf595ef3b108cb37e36_sample_assignm_2.pdf
+file_size: 560967
 file_type: application/pdf
 learning_resource_types:
 - Assignments
