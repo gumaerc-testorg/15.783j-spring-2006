@@ -2,6 +2,7 @@
 content_type: resource
 description: This topic includes how childrens can have fun and can practice spellings.
 file: /courses/15-783j-product-design-and-development-spring-2006/2ded31073b42abac502c5363945a825a_alphafinal.pdf
+file_size: 626655
 file_type: application/pdf
 learning_resource_types:
 - Projects

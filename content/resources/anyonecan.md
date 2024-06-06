@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-783j-product-design-and-development-spring-2006/625648fe30615b7249f161ea498555d3_anyonecan.pdf
+file_size: 1058870
 file_type: application/pdf
 learning_resource_types:
 - Projects
