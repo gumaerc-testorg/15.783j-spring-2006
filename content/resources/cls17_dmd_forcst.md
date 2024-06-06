@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding class 17. '
 file: /courses/15-783j-product-design-and-development-spring-2006/9d0327f1cb89611a5c2bafba2718aed3_cls17_dmd_forcst.pdf
+file_size: 852851
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

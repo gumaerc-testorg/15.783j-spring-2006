@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding class 8. '
 file: /courses/15-783j-product-design-and-development-spring-2006/a61c27d67397b7e731327d176f303068_cls8_prototyping.pdf
+file_size: 1582221
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
