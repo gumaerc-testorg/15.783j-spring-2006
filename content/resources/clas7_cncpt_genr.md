@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding class 7. '
-file: /ol-ocw-studio-app/courses/15-783j-product-design-and-development-spring-2006/aa38be3463667d088c7a51c73712382e_clas7_cncpt_genr.pdf
+file: /courses/15-783j-product-design-and-development-spring-2006/aa38be3463667d088c7a51c73712382e_clas7_cncpt_genr.pdf
 file_size: 1178184
 file_type: application/pdf
 learning_resource_types:
