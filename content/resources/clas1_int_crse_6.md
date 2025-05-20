@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding class 1. '
-file: /ol-ocw-studio-app/courses/15-783j-product-design-and-development-spring-2006/61b6b8028f2b6a76695e118d843089b8_clas1_int_crse_6.pdf
+file: /courses/15-783j-product-design-and-development-spring-2006/61b6b8028f2b6a76695e118d843089b8_clas1_int_crse_6.pdf
 file_size: 2505885
 file_type: application/pdf
 learning_resource_types:

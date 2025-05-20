@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding class 4. '
-file: /ol-ocw-studio-app/courses/15-783j-product-design-and-development-spring-2006/e2e05a01049815a875b5d8b87f4cbc34_cls4_cstmr_ned.pdf
+file: /courses/15-783j-product-design-and-development-spring-2006/e2e05a01049815a875b5d8b87f4cbc34_cls4_cstmr_ned.pdf
 file_size: 2277335
 file_type: application/pdf
 learning_resource_types:

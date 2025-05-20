@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding class 9. '
-file: /ol-ocw-studio-app/courses/15-783j-product-design-and-development-spring-2006/4a44d148fc00f946862177da626cb069_cls9_cncpt_sel_6.pdf
+file: /courses/15-783j-product-design-and-development-spring-2006/4a44d148fc00f946862177da626cb069_cls9_cncpt_sel_6.pdf
 file_size: 859880
 file_type: application/pdf
 learning_resource_types:
