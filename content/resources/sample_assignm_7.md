@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding assignment 7. '
-file: /ol-ocw-studio-app/courses/15-783j-product-design-and-development-spring-2006/73617d4d7ce70b8c42f697a7bd44067a_sample_assignm_7.pdf
+file: /courses/15-783j-product-design-and-development-spring-2006/73617d4d7ce70b8c42f697a7bd44067a_sample_assignm_7.pdf
 file_size: 576566
 file_type: application/pdf
 learning_resource_types:
