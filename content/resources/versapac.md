@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-783j-product-design-and-development-spring-2006/9628347f8bf1a70017ef13508a483f9b_versapac.pdf
+file: /ol-ocw-studio-app/courses/15-783j-product-design-and-development-spring-2006/9628347f8bf1a70017ef13508a483f9b_versapac.pdf
 file_size: 1250501
 file_type: application/pdf
 learning_resource_types:

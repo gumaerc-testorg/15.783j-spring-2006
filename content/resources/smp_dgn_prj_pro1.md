@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding project 1. '
-file: /courses/15-783j-product-design-and-development-spring-2006/e0c535a08d088340a02ec3159da13315_smp_dgn_prj_pro1.pdf
+file: /ol-ocw-studio-app/courses/15-783j-product-design-and-development-spring-2006/e0c535a08d088340a02ec3159da13315_smp_dgn_prj_pro1.pdf
 file_size: 55527
 file_type: application/pdf
 learning_resource_types:
